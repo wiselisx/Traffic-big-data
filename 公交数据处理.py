@@ -16,7 +16,7 @@ save_path='公交数据.csv'
 # In[40]:
 
 
-data=pd.read_csv(save_path,encodings='gbk')
+data=pd.read_csv(save_path,encoding='gbk')
 datas=pd.DataFrame(data)
 a=datas.shape[0]#读取数据有多少行
 b=[]
