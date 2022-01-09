@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9bfae47-e8c6-41b4-876f-83f4bc38521d" name="默认变更列表" comment="计算平均度写成了方法">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/交通数据分析.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/交通数据分析.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/公交数据处理.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/公交数据处理.ipynb" afterDir="false" />
+    <list default="true" id="b9bfae47-e8c6-41b4-876f-83f4bc38521d" name="默认变更列表" comment="添加了对偶法">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/公交网络随机攻击策略.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/公交网络随机攻击策略.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,7 @@
       <workItem from="1641729555374" duration="1760000" />
       <workItem from="1641732140958" duration="3094000" />
       <workItem from="1641735900408" duration="2337000" />
-      <workItem from="1641748998692" duration="1986000" />
+      <workItem from="1641748998692" duration="6544000" />
     </task>
     <task id="LOCAL-00001" summary="实现了数据分析与提取">
       <created>1640005415794</created>
@@ -173,7 +172,21 @@
       <option name="project" value="LOCAL" />
       <updated>1641637934451</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="添加了对偶法">
+      <created>1641751124923</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1641751124923</updated>
+    </task>
+    <task id="LOCAL-00014" summary="添加了对偶法">
+      <created>1641751192160</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1641751192160</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +213,7 @@
     <MESSAGE value="算出了度的大小，就是与gephi差距有点大" />
     <MESSAGE value="基本实现了随机攻击策略，只差网络效率的函数和不同概率对比作图" />
     <MESSAGE value="计算平均度写成了方法" />
-    <option name="LAST_COMMIT_MESSAGE" value="计算平均度写成了方法" />
+    <MESSAGE value="添加了对偶法" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了对偶法" />
   </component>
 </project>
