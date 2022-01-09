@@ -56,7 +56,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -86,7 +86,8 @@
       <workItem from="1641729555374" duration="1760000" />
       <workItem from="1641732140958" duration="3094000" />
       <workItem from="1641735900408" duration="2337000" />
-      <workItem from="1641748998692" duration="6544000" />
+      <workItem from="1641748998692" duration="7092000" />
+      <workItem from="1641756164679" duration="297000" />
     </task>
     <task id="LOCAL-00001" summary="实现了数据分析与提取">
       <created>1640005415794</created>
@@ -186,7 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1641751192160</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="添加了对偶法">
+      <created>1641755702897</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1641755702897</updated>
+    </task>
+    <task id="LOCAL-00016" summary="添加了对偶法">
+      <created>1641756120958</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1641756120958</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
