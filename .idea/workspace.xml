@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9bfae47-e8c6-41b4-876f-83f4bc38521d" name="默认变更列表" comment="添加了对偶法">
-      <change beforePath="$PROJECT_DIR$/公交网络随机攻击策略.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/公交网络随机攻击策略.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/鲁棒性分析.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/公交网络随机攻击策略.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/公交网络随机攻击策略.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +90,8 @@
       <workItem from="1641735900408" duration="2337000" />
       <workItem from="1641748998692" duration="7092000" />
       <workItem from="1641756164679" duration="556000" />
-      <workItem from="1641789763971" duration="2133000" />
+      <workItem from="1641789763971" duration="2490000" />
+      <workItem from="1641810397404" duration="5619000" />
     </task>
     <task id="LOCAL-00001" summary="实现了数据分析与提取">
       <created>1640005415794</created>
@@ -215,7 +219,28 @@
       <option name="project" value="LOCAL" />
       <updated>1641792154263</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="添加了对偶法">
+      <created>1641792859341</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1641792859341</updated>
+    </task>
+    <task id="LOCAL-00020" summary="添加了对偶法">
+      <created>1641792952916</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1641792952916</updated>
+    </task>
+    <task id="LOCAL-00021" summary="添加了对偶法">
+      <created>1641793053181</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1641793053181</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
