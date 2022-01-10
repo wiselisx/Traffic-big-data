@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9bfae47-e8c6-41b4-876f-83f4bc38521d" name="默认变更列表" comment="添加了对偶法">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/公交数据处理.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/公交网络随机攻击策略.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/公交网络随机攻击策略.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +89,8 @@
       <workItem from="1641732140958" duration="3094000" />
       <workItem from="1641735900408" duration="2337000" />
       <workItem from="1641748998692" duration="7092000" />
-      <workItem from="1641756164679" duration="297000" />
+      <workItem from="1641756164679" duration="556000" />
+      <workItem from="1641789763971" duration="1430000" />
     </task>
     <task id="LOCAL-00001" summary="实现了数据分析与提取">
       <created>1640005415794</created>
@@ -201,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641756120958</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="还需要画一个图">
+      <created>1641756713545</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1641756713545</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +239,7 @@
     <MESSAGE value="基本实现了随机攻击策略，只差网络效率的函数和不同概率对比作图" />
     <MESSAGE value="计算平均度写成了方法" />
     <MESSAGE value="添加了对偶法" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加了对偶法" />
+    <MESSAGE value="还需要画一个图" />
+    <option name="LAST_COMMIT_MESSAGE" value="还需要画一个图" />
   </component>
 </project>
